@@ -46,11 +46,11 @@ steps:
       CodeCoverage/After/CodeCoverage/*.csproj
     zipAfterPublish: false
     arguments: '-o --configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)'
-  displayName: 'Generating artifact in $(Build.ArtifactStagingDirectory) ...'
+  displayName: 'Generating artifact  ...'
 
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: drop
-  displayName: "Publishing artifact from $(Build.ArtifactStagingDirectory) ..."
+  displayName: "Publishing artifact ..."
 
