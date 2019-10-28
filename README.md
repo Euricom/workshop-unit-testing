@@ -50,6 +50,5 @@ You can start with the lab by clicking on [this link](https://www.azuredevopslab
 
 - For help on code coverage with coverlet [click here](https://ofpinewood.com/blog/code-coverage-with-coverlet-in-msbuild-and-azure-pipelines).
 - For help on code coverage policies [click here](https://marketplace.visualstudio.com/items?itemName=mspremier.BuildQualityChecks)
-For 
 
 
