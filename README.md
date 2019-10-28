@@ -48,4 +48,8 @@ You can start with the lab by clicking on [this link](https://www.azuredevopslab
 
 > You can create an Azure Devops Organization for free. [Click here](https://azure.microsoft.com/en-us/services/devops/) to start free.
 
+- For help on code coverage with coverlet [click here](https://ofpinewood.com/blog/code-coverage-with-coverlet-in-msbuild-and-azure-pipelines).
+- For help on code coverage policies [click here](https://marketplace.visualstudio.com/items?itemName=mspremier.BuildQualityChecks)
+For 
+
 
